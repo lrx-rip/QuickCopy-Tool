@@ -23,4 +23,4 @@ Simply deploy the code (e.g., using GitHub Pages) and pass the text you want to 
 
 ### Example URL Structure:
 ```text
-[https://yourusername.github.io/?token=YourTextHere](https://yourusername.github.io/?token=YourTextHere)
+https://your-username.github.io/?token=YourTextHere
